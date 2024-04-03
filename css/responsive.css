@@ -1,0 +1,381 @@
+@media (max-width:1360px) {
+
+    .p-inside-main p:nth-child(4) {
+        width: 90%;
+    }
+}
+
+@media (max-width:992px) {
+    .navbar {
+        width: 100%;
+    }
+
+}
+
+@media (max-width:866px) {
+    .main {
+        display: block !important;
+    }
+
+    .right img {
+        text-align: end;
+    }
+
+    .p-inside-main {
+        margin-left: 2rem;
+    }
+
+    .left {
+        width: 90%;
+    }
+
+    #counter-box {
+        width: 33%;
+    }
+
+    .busn,
+    .people,
+    .cards,
+    .lets,
+    .footer-container {
+        display: block;
+    }
+
+    .people,
+    .main-index {
+        text-align: center;
+    }
+
+    .first-p,
+    .second-p,
+    .card,
+    .try {
+        width: 100% !important;
+    }
+
+    .card,
+    .lets button,
+    .footer-container h5 {
+        margin-top: 2rem;
+    }
+
+    .lets {
+        padding: 3rem;
+    }
+
+    .footer-container h6 {
+
+        margin: auto;
+        margin-top: 1rem;
+        font-size: 1.2rem;
+    }
+
+    .main-index-container {
+        display: flex;
+        justify-content: space-around;
+    }
+
+}
+
+@media (max-width:768px) {
+
+    .discount,
+    .navbar {
+        margin: auto !important
+    }
+
+    .navbar,
+    .navbar ul li {
+        text-align: center !important
+    }
+
+
+    .busn,
+    .card,
+    .find,
+    .lets,
+    .people,
+    .people p,
+    .right img {
+        width: 90%
+    }
+
+    .list li {
+        margin: auto
+    }
+
+    .navbar {
+        display: block !important
+    }
+
+    .navbar ul li {
+        margin-top: 1rem
+    }
+
+    .footer-container {
+        display: block;
+        text-align: center
+    }
+
+    .get-started {
+        display: none
+    }
+
+    #counter-box-container,
+    .main {
+        display: block !important
+    }
+
+    .p-inside-main {
+        margin: 3rem auto auto !important
+    }
+
+    .p-inside-main p:nth-child(4) {
+        width: 90%;
+        margin: 2rem auto auto !important
+    }
+
+    .busn,
+    .cards {
+        display: block
+    }
+
+    .left {
+        text-align: center;
+        margin-right: 0 !important
+    }
+
+    .right img {
+        margin-top: 3rem
+    }
+
+    .find {
+        margin: auto !important;
+        text-align: center !important
+    }
+
+    .find p:first-child {
+        font-size: 3.4rem !important
+    }
+
+    .find p:nth-child(2) {
+        width: 100%
+    }
+
+    .analyse img {
+        margin-top: 4rem
+    }
+
+    #counter-box-container {
+        margin: auto !important;
+        width: 90%
+    }
+
+    .people,
+    .people p {
+        display: block;
+        margin: auto;
+        text-align: center
+    }
+
+    .first-p {
+        margin-top: 3rem !important;
+        font-size: 3.4rem
+    }
+
+    .card {
+        margin-top: 2rem
+    }
+
+    .try {
+        display: block !important;
+        width: 100% !important
+    }
+
+    .lets h2 {
+        font-size: 2.8rem;
+        width: 100%
+    }
+
+    .main-index-container {
+        display: block;
+    }
+    .p-inside-main p:nth-child(2) {
+        font-size: 4.8rem
+    }
+    .p-inside-main {
+        transform: translateX(5%);
+    }
+
+}
+
+@media (max-width:480px) {
+
+    .list li{
+        font-size: 0.9rem !important;
+    }
+    .list ul{
+       
+        margin-right: 1rem;
+    }
+     .navbar,
+    .navbar ul li {
+        text-align: center !important
+    }
+
+    .discount,
+    .navbar,
+    .p-inside-main {
+        margin: auto !important
+    }
+
+    .lets {
+        display: block;
+        width: 90%;
+
+        padding: 3rem !important
+    }
+
+    .busn,
+    .card,
+    .find,
+    .lets,
+    .p-inside-main,
+    .people,
+    .people p,
+    .right img {
+        width: 90%
+    }
+
+    .list li {
+        margin: auto
+    }
+
+    .navbar {
+        display: block !important
+    }
+
+    .navbar ul li {
+        margin-top: 1rem
+    }
+
+    .footer-container {
+        display: block;
+        text-align: center
+    }
+
+    .get-started {
+        display: none
+    }
+
+    #counter-box-container,
+    .main {
+        display: block !important
+    }
+
+    #counter-box {
+        width: 0;
+    }
+
+    .p-inside-main {
+        text-align: center !important
+    }
+
+    .p-inside-main p:nth-child(2) {
+        font-size: 4.1rem
+    }
+
+    .p-inside-main p:nth-child(4) {
+        width: 90%;
+        margin: 2rem auto auto !important
+    }
+
+    .p-inside-main p:first-child,
+    .p-inside-main p:nth-child(3) {
+        font-size: 4.6rem
+    }
+
+    .busn,
+    .cards {
+        display: block
+    }
+
+    .left {
+        text-align: center;
+        margin-right: 0 !important;
+
+    }
+
+
+    .right img {
+        margin-top: 3rem
+    }
+
+    .find {
+        margin: auto !important;
+        text-align: center !important
+    }
+
+    .find p:first-child {
+        font-size: 3.4rem !important
+    }
+
+    .find p:nth-child(2) {
+        width: 100%
+    }
+
+    .analyse img {
+        margin-top: 4rem
+    }
+
+    #counter-box-container {
+        margin: auto !important;
+        width: 50%;
+
+
+    }
+
+    .people,
+    .people p {
+        display: block;
+        margin: auto;
+        text-align: center
+    }
+
+    .first-p {
+        margin-top: 3rem !important;
+        font-size: 3.4rem
+    }
+
+    .card {
+        margin-top: 2rem
+    }
+
+    .try {
+        display: block !important;
+        width: 100% !important
+    }
+
+    .lets button {
+        margin-top: 2rem;
+    }
+
+    .lets h2 {
+        font-size: 2.8rem;
+        width: 100%
+    }
+
+    #footer-logo {
+        width: 80%
+    }
+
+    .footer-container h5 {
+        margin-top: 1rem;
+    }
+
+    .main-index {
+        width: 100%;
+        text-align: center !important;
+        margin: auto !important;
+    }
+}

@@ -1,0 +1,274 @@
+@media (max-width: 768px) {
+    .list li {
+        margin: auto;
+    }
+
+    .discount {
+        margin: auto !important;
+    }
+
+    .navbar {
+        display: block !important;
+        margin: auto !important;
+        text-align: center !important;
+    }
+
+    .navbar ul li {
+        margin-top: 1rem;
+        text-align: center !important;
+    }
+
+    .footer-container {
+        display: block;
+        text-align: center
+    }
+
+    .get-started {
+        display: none;
+    }
+
+    .p-inside-main {
+        margin: auto !important;
+        margin-top: 3rem !important;
+    }
+
+    .p-inside-main p:nth-child(4) {
+        width: 90%;
+        margin: auto !important;
+        margin-top: 2rem !important;
+    }
+
+    .main {
+        display: block !important;
+    }
+
+    .left {
+        text-align: center;
+        margin-right: 0% !important;
+    }
+
+    .right img {
+        margin-top: 3rem;
+        width: 90%;
+    }
+
+    .find {
+        margin: auto !important;
+        width: 90%;
+        text-align: center !important;
+    }
+
+    .find p:nth-child(1) {
+        font-size: 3.4rem !important;
+    }
+
+    .find p:nth-child(2) {
+        width: 100%;
+    }
+
+    .analyse img {
+        margin-top: 4rem;
+    }
+
+    .busn {
+        display: block;
+        width: 90%;
+    }
+
+    #counter-box-container {
+        margin: auto !important;
+        display: block !important;
+    }
+
+    /* People */
+    .people,
+    .people p {
+
+        display: block;
+        width: 90%;
+        margin: auto;
+        text-align: center;
+    }
+
+    .first-p {
+        margin-top: 3rem !important;
+        font-size: 3.4rem;
+    }
+
+    /* Cards */
+    .cards {
+        display: block;
+    }
+
+    .card {
+        width: 90%;
+        margin-top: 2rem;
+    }
+
+    /* Lets */
+    .lets {
+        width: 90%;
+    }
+
+    .try {
+        display: block !important;
+        width: 100% !important;
+    }
+
+    .lets h2 {
+        font-size: 2.8rem;
+        width: 100%;
+    }
+
+    #counter-box-container {
+        /* background-color: red; */
+        width: 50%;
+
+    }
+
+}
+
+@media (max-width: 480px) {
+    .list li {
+        margin: auto;
+    }
+
+    .discount {
+        margin: auto !important;
+    }
+
+    .navbar {
+        display: block !important;
+        margin: auto !important;
+        text-align: center !important;
+    }
+
+    .navbar ul li {
+        margin-top: 1rem;
+        text-align: center !important;
+    }
+
+    .footer-container {
+        display: block;
+        text-align: center
+    }
+
+    .get-started {
+        display: none;
+    }
+
+    .p-inside-main {
+        width: 90%;
+        margin-top: 3rem !important;
+        text-align: center !important;
+        margin: auto !important;
+    }
+
+    .p-inside-main p:nth-child(2) {
+        font-size: 4.8rem;
+    }
+
+    .p-inside-main p:nth-child(4) {
+        width: 90%;
+        margin: auto !important;
+        margin-top: 2rem !important;
+    }
+
+    .p-inside-main p:nth-child(1),
+    .p-inside-main p:nth-child(3) {
+        font-size: 4.6rem;
+    }
+
+    .main {
+        display: block !important;
+    }
+
+    .left {
+        text-align: center;
+        margin-right: 0% !important;
+    }
+
+    .right img {
+        margin-top: 3rem;
+        width: 90%;
+    }
+
+    .find {
+        margin: auto !important;
+        width: 90%;
+        text-align: center !important;
+    }
+
+    .find p:nth-child(1) {
+        font-size: 3.4rem !important;
+    }
+
+    .find p:nth-child(2) {
+        width: 100%;
+    }
+
+    .analyse img {
+        margin-top: 4rem;
+    }
+
+    .busn {
+        display: block;
+        width: 90%;
+    }
+
+    #counter-box-container {
+        margin: auto !important;
+        display: block !important;
+    }
+
+    /* People */
+    .people,
+    .people p {
+
+        display: block;
+        width: 90%;
+        margin: auto;
+        text-align: center;
+    }
+
+    .first-p {
+        margin-top: 3rem !important;
+        font-size: 3.4rem;
+    }
+
+    /* Cards */
+    .cards {
+        display: block;
+    }
+
+    .card {
+        width: 90%;
+        margin-top: 2rem;
+    }
+
+    /* Lets */
+    .lets {
+        width: 90%;
+    }
+
+    .try {
+        display: block !important;
+        width: 100% !important;
+    }
+
+    .lets h2 {
+        font-size: 2.8rem;
+        width: 100%;
+    }
+
+    #counter-box-container {
+        /* background-color: red; */
+        width: 50%;
+
+    }
+
+    #footer-logo {
+        width: 80%;
+    }
+
+}
